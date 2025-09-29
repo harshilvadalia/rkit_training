@@ -1,4 +1,6 @@
-# rkit_training
+This repository serves as a workspace for training and experimenting with R and related technologies. It is designed to support learning, practice, and skill development. The project is public and actively maintained, making it suitable for anyone interested in exploring or contributing to R-based training materials and examples.
+
+
 
 # RKIT Pre-Joining Training Repository
 The program is organized week-wise as follows:
@@ -16,8 +18,12 @@ The program is organized week-wise as follows:
 | Week 12    | Problem Solving & AI-Assisted Development    |
 
 
-## 🗂 Repository Structure
+## Repository Details
 
-The repository is organized **week-wise** for easy navigation
+Public Access: Freely accessible for viewing and contributions.
+
+Actively Maintained: Regular updates and improvements.
+
+Owner: harshilvadalia
 
 ---
