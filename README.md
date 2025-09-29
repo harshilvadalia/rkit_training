@@ -1,4 +1,4 @@
-This repository serves as a workspace for training and experimenting with R and related technologies. It is designed to support learning, practice, and skill development. The project is public and actively maintained, making it suitable for anyone interested in exploring or contributing to R-based training materials and examples.
+This repository serves as a workspace for training and experimenting with technologies. It is designed to support learning, practice, and skill development. The project is public and actively maintained, making it suitable for anyone interested in exploring or contributing to training materials and examples.
 
 
 
